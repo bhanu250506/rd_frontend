@@ -11,7 +11,7 @@ import {
   useRouteError,
 } from 'react-router-dom';
 import axios from 'axios';
-import './app.css';
+import './App.css';
 
 // --- AXIOS CONFIG ---
 axios.defaults.baseURL = 'https://rdbackend-1.onrender.com';
